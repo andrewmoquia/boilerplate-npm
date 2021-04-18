@@ -11,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"engines": {
+		 "node": "8.11.2"
 	}
+
 }
