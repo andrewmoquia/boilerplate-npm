@@ -6,7 +6,7 @@
 	"keywords": ["freecodecamp", "learning", "practice", "package.json"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"package-name": "version",
+		"moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
