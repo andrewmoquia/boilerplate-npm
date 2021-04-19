@@ -1,6 +1,7 @@
 {
 	"author": "John Andrew",
 	"description": "My first web app",
+	"keywords": ["freecodecamp", "learning", "practice", "package.json"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
